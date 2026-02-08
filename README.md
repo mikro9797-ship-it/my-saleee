@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -879,7 +879,7 @@
                         <i class="fas fa-chalkboard-teacher"></i>
                     </div>
                     <h3>Эксперты-практики</h3>
-                    <p>Преподает действующие SMM-специалисты с опытом работы в крупных агентствах и с известными брендами.</p>
+                    <p>Преподает действующий SMM-специалисты с опытом работы в крупных агентствах и с известными брендами.</p>
                 </div>
                 
                 <div class="advantage-card">
@@ -943,7 +943,7 @@
             <div class="reviews-slider">
                 <div class="review-slide">
                     <img src="https://randomuser.me/api/portraits/women/45.jpg" alt="Выпускница" class="student-photo">
-                    <p class="review-text">"бамбавый курс"</p>
+                    <p class="review-text">"бомбавый курс"</p>
                     <h4 class="student-name">Анна Козлова</h4>
                     <p class="student-position">SMM-менеджер в AdvertFlow</p>
                 </div>
