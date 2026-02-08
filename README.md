@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -1025,16 +1024,16 @@
                 
                 <div class="contact-info">
                     <h3 class="footer-heading">Контакты</h3>
-                    <p><i class="fas fa-map-marker-alt"></i> Москва, ул. Тверская, 15, офис 305</p>
-                    <p><i class="fas fa-phone"></i> +7 (495) 123-45-67</p>
-                    <p><i class="fas fa-envelope"></i> info@smmpro-academy.ru</p>
+                    <p><i class="fas fa-map-marker-alt"></i> г.махачкала ул.рандомная</p>
+                    <p><i class="fas fa-phone"></i> +7 (928) 501-57-28</p>
+                    <p><i class="fas fa-envelope"></i> mikro9700@mail.ru</p>
                     <p><i class="fas fa-clock"></i> Пн-Пт: 9:00-20:00, Сб: 10:00-18:00</p>
                     <p><i class="fas fa-headset"></i> Техподдержка: support@smmpro-academy.ru</p>
                 </div>
             </div>
             
             <div class="copyright">
-                <p>&copy; 2023 SMM Pro Academy. Все права защищены. <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Политика конфиденциальности</a> | <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Договор оферты</a></p>
+                <p>&copy; 2026 SMM Pro Academy. Все права защищены. <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Политика конфиденциальности</a> | <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Договор оферты</a></p>
             </div>
         </div>
     </footer>
