@@ -872,14 +872,14 @@
     <!-- Преимущества обучения -->
     <section id="advantages" class="advantages">
         <div class="container">
-            <h2 class="section-title">Почему выбирают нашу академию</h2>
+            <h2 class="section-title">Почему выбирают этот курс</h2>
             <div class="advantages-grid">
                 <div class="advantage-card">
                     <div class="advantage-icon">
                         <i class="fas fa-chalkboard-teacher"></i>
                     </div>
                     <h3>Эксперты-практики</h3>
-                    <p>Преподают действующие SMM-специалисты с опытом работы в крупных агентствах и с известными брендами.</p>
+                    <p>Преподает действующие SMM-специалисты с опытом работы в крупных агентствах и с известными брендами.</p>
                 </div>
                 
                 <div class="advantage-card">
@@ -943,7 +943,7 @@
             <div class="reviews-slider">
                 <div class="review-slide">
                     <img src="https://randomuser.me/api/portraits/women/45.jpg" alt="Выпускница" class="student-photo">
-                    <p class="review-text">"Прошла курс SMM-специалиста с нуля. Уже через 2 месяца после начала обучения получила первые заказы на ведение соцсетей. Сейчас работаю в digital-агентстве. Огромное спасибо преподавателям за практический подход!"</p>
+                    <p class="review-text">"бамбавый курс"</p>
                     <h4 class="student-name">Анна Козлова</h4>
                     <p class="student-position">SMM-менеджер в AdvertFlow</p>
                 </div>
@@ -986,7 +986,8 @@
                         <option value="target">Таргетированная реклама PRO</option>
                         <option value="content">Контент-маркетинг и стратегии</option>
                         <option value="consultation">Бесплатная консультация</option>
-                    </select>
+                        <option value="consultation">супер пупер</option>              
+                        </select>
                 </div>
                 
                 <button type="submit" class="btn btn-accent" style="width: 100%; padding: 16px;">Отправить заявку на обучение</button>
@@ -999,10 +1000,10 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-about">
-                    <div class="footer-logo"><i class="fas fa-rocket"></i>SMM<span>Pro</span> Academy</div>
-                    <p>Онлайн-академия digital-маркетинга №1 в России. Готовим востребованных специалистов с 2018 года. 1500+ выпускников работают в ведущих агентствах и компаниях.</p>
+                    <div class="footer-logo"><i class="fas fa-rocket"></i>SMM<span>nuri</span> курс</div>
+                    <p>Онлайн-курс digital-маркетинга №1 в России. Готовим востребованных специалистов с 2018 года. 1500+ выпускников работают в ведущих агентствах и компаниях.(с инета написала)</p>
                     <div class="social-links">
-                        <a href="https://instagram.com" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/ssalya.aa?igsh=MTMzYTMzcjZvMW1ncA%3D%3D&utm_source=qr" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
                         <a href="https://facebook.com" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://vk.com" target="_blank" title="VK"><i class="fab fa-vk"></i></a>
                         <a href="https://youtube.com" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
@@ -1024,7 +1025,7 @@
                 
                 <div class="contact-info">
                     <h3 class="footer-heading">Контакты</h3>
-                    <p><i class="fas fa-map-marker-alt"></i> г.махачкала ул.рандомная</p>
+                    <p><i class="fas fa-map-marker-alt"></i> г. Махачкала ул. Рандомная</p>
                     <p><i class="fas fa-phone"></i> +7 (928) 501-57-28</p>
                     <p><i class="fas fa-envelope"></i> mikro9700@mail.ru</p>
                     <p><i class="fas fa-clock"></i> Пн-Пт: 9:00-20:00, Сб: 10:00-18:00</p>
@@ -1033,7 +1034,7 @@
             </div>
             
             <div class="copyright">
-                <p>&copy; 2026 SMM Pro. Все права защищены. <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Политика конфиденциальности</a> | <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Договор оферты</a></p>
+                <p>&copy; 2026 SMM Nuri. Все права защищены. <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Политика конфиденциальности</a> | <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Договор оферты</a></p>
             </div>
         </div>
     </footer>
