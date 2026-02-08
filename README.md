@@ -764,7 +764,7 @@
     <!-- Шапка сайта -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo"><i class="fas fa-rocket"></i>SMM<span>Pro</span></a>
+            <a href="#" class="logo"><i class="fas fa-rocket"></i>SMM<span>nuri</span></a>
             
             <button class="mobile-menu-btn" id="mobileMenuBtn">
                 <i class="fas fa-bars"></i>
@@ -1028,12 +1028,12 @@
                     <p><i class="fas fa-phone"></i> +7 (928) 501-57-28</p>
                     <p><i class="fas fa-envelope"></i> mikro9700@mail.ru</p>
                     <p><i class="fas fa-clock"></i> Пн-Пт: 9:00-20:00, Сб: 10:00-18:00</p>
-                    <p><i class="fas fa-headset"></i> Техподдержка: support@smmpro-academy.ru</p>
+                    <p><i class="fas fa-headset"></i> Техподдержка: поддерживаю@mail.ru</p>
                 </div>
             </div>
             
             <div class="copyright">
-                <p>&copy; 2026 SMM Pro Academy. Все права защищены. <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Политика конфиденциальности</a> | <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Договор оферты</a></p>
+                <p>&copy; 2026 SMM Pro. Все права защищены. <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Политика конфиденциальности</a> | <a href="#" style="color: rgba(255,255,255,0.8); text-decoration: underline;">Договор оферты</a></p>
             </div>
         </div>
     </footer>
